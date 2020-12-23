@@ -28,7 +28,7 @@ class _SplashState extends State<Splash> {
         color: Theme.of(context).accentColor,
       ),
       child: Center(
-        child: Image.asset("assets/images/logo.png"),
+        child: Image.asset("assets/images/logo.jpg"),
       ),
     );
   }
