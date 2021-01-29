@@ -1,7 +1,12 @@
-# bloc boilerplat
+<div dir="rtl">
 
-Flutter-bloc-Design-Pattern-Full-Example
-
-This project contain a sample of bloc design pattern using rxDart
+#  تمپلیت الگوی طراحی بلاک در فلاتر
 
 
+تمپلیت رو توضیح میدیم و با بخش های مختلفش آشنا میشیم
+
+
+![](https://raw.githubusercontent.com/JulyWitch/my_carbons/main/carbon(19).png)
+
+
+</div>
